@@ -12,7 +12,6 @@ Dive into the foundations of machine learning with this **pure Python implementa
 - Easy-to-follow code with comments and documentation.  
 - Includes visualization of the regression line using Matplotlib.  
 - Practical example datasets for quick experimentation.  
-
 ## Why Weighted Linear Regression? 🤔  
 Standard linear regression assumes all data points contribute equally, but in real-world scenarios, certain observations carry more significance. Weighted Linear Regression ensures those crucial points influence the model more effectively, making this technique essential for domains like finance, healthcare, and experimental science.  
 
